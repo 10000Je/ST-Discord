@@ -1,0 +1,5 @@
+name: ST-Discord
+version: '1.0'
+author: STuuDENT
+main: com.stuudent.discord.DiscordCore
+description: Connects Minecraft Server To Discord Lounge.
